@@ -1,0 +1,22 @@
+documentation
+This project works by taking a video files from the admin user and then host it in the server after that regular users can watch the video but only the admin user can delete the video
+
+A user's is able to create account , remove, reset password , delete account , make account as Admin and watch videos
+
+Used modules
+Jsonwebtoken, node-mailer,fs,exprees,mongodb,dotenv,multer, body parser,cookie-parser, router, etc
+
+Goal
+To understand how mechanics of a website works on different stages of the program and how to write complex codes in an organised way to make developing it easier
+
+Drawback
+Since i don't have enough expertise some of the methods may be wrong..... Not enough work on the Ui ... Code being not effective enough... No protection against security threats .. No input validation
+
+
+Next update
+Input validation will be added
+Codes will be more descriptive
+Password will be encrypted
+
+
+Thanks
